@@ -1,6 +1,6 @@
 import random
 import nltk
-
+#чат бот 
 BOT_CONFIG = {
     'itents' : {
         'hello' : {
